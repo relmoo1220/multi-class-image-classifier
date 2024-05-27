@@ -1,1 +1,1 @@
-# CSC3109-MachineLearning-Team18
+# Multi-Class Image Classifier using TensorFlow Keras
